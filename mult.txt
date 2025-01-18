@@ -1,0 +1,5 @@
+class Mult{
+public int (x, y);
+public static void main(Sting args[]{
+return (x * y);
+}}
